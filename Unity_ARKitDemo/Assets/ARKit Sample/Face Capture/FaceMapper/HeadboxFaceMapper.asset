@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7542b0a8b93c044618b3d84f58b4bc3c, type: 3}
   m_Name: HeadboxFaceMapper
   m_EditorClassIdentifier: 
-  m_RigPrefab: {fileID: 8862902908929969084, guid: ca073ebf667c67246a54bbfacfcc320a, type: 3}
+  m_RigPrefab: {fileID: 1245617679340137744, guid: f77d4f4c3a79af24e887bcfb30519051, type: 3}
   m_ShapeMatchTolerance: 0.6
   m_DefaultEvaluator: {fileID: 11400000, guid: 23f316e41ee3e46af9c5d6fdc69047b1, type: 2}
   m_InvertMappings: 0
   m_Maps:
-  - m_Path: f002_hipoly_81_bones_opacity
+  - m_Path: f011_hipoly_81_bones_opacity
     m_Bindings:
     - m_Location: 0
       m_ShapeIndex: 15
